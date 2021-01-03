@@ -1,9 +1,0 @@
-File Name: discussionlog.txt
-Author: Louis Fiacco
-Class: CSCI 132, Prof.Kadady
-Date: 27 February 2019
-
-
-
-Discussion Log:
-I did not hold any discussions with anyone about this assignment.
