@@ -1,8 +1,6 @@
 /*****************************************************************
  *  Name: Louis Fiacco
  *  Date: 03/27/2019
- *  Course: CSCI 132,  Prof. Kadady
- *  Assignment: Assignment 5
  *  Program: solveMaze.cc
  *  Purpose: Draws a random maze and solves it using recursion
  ****************************************************************/
